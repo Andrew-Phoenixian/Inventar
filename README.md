@@ -29,3 +29,4 @@ Dessverre så ble bedrift konkurs og bruken for programmet forsvant.
 ![image](https://user-images.githubusercontent.com/42244235/195610609-6e4ae0d8-96bd-48e7-a901-3ece15c90a97.png)
 ![image](https://user-images.githubusercontent.com/42244235/195610672-045b624d-55ac-4d88-8e9c-a8b70c2aa4b4.png)
 
+# Koden til prosjektet er tilgjengelig i denne github repoen.
